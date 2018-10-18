@@ -12,3 +12,4 @@ volti &
 #skypeforlinux &
 #xfce4-power-manager &
 nm-applet start &
+###
