@@ -1,8 +1,10 @@
 #!/bin/sh
+#устанавливает обои
 feh --bg-scale /home/gleb/wallpaper.jpg &
-#synclient TapButton2=3 &
-#synclient TapButton3=2 &
-#synclient TapButton1=1 &
+#apt install xserver-xorg-input-synaptics
+synclient TapButton2=3 &
+synclient TapButton3=2 &
+synclient TapButton1=1 &
 #source ~/.bash_aliases &
 #/home/gleb/bitmask-0.10.2/bitmask &
 firefox &
